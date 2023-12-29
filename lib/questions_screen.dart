@@ -3,7 +3,6 @@ import 'package:pro3/data/questions.dart';
 import 'package:pro3/answer_button.dart';
 import 'package:pro3/models/quiz_questions.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:pro3/result_screen.dart';
 
 class QuestionsScreen extends StatefulWidget {
   const QuestionsScreen(this.chosenAnswerFunction, {super.key});
