@@ -1,6 +1,3 @@
-Certainly! Below is a template for your GitHub README file:
-
-```markdown
 # Quiz App
 
 A Flutter-based quiz application that allows users to play a quiz with random questions from a large set. The app provides a summary of the quiz, displaying correct and incorrect answers, along with the correct answers and the user's score out of 5.
@@ -15,6 +12,24 @@ A Flutter-based quiz application that allows users to play a quiz with random qu
 ## Screenshots
 
 
+  <img src="https://github.com/ankitpatne/Flutter-Quiz-App/assets/50258606/643d8836-6348-4ebf-89d9-b4fe2eaf9096" width="180" height="370"> 
+  -
+  <img src="https://github.com/ankitpatne/Flutter-Quiz-App/assets/50258606/76a5d5e9-de73-4846-8a5d-0365d03b36b9" width="180" height="370">
+  <br><br><br>
+ - Scrollable Interface: <br><br>
+  <img src="https://github.com/ankitpatne/Flutter-Quiz-App/assets/50258606/8e7ffc39-c09a-4fe9-9594-7382c438a134" width="200" height="400">
+-
+<img src="https://github.com/ankitpatne/Flutter-Quiz-App/assets/50258606/63678232-6d3e-400f-ad99-4990e374af0c" width="200" height="400">
+<br><br>
+- Windows Application View: <br><br>
+
+![image](https://github.com/ankitpatne/Flutter-Quiz-App/assets/50258606/925eddd9-a863-41b3-b5e1-83cf32df2158)
+
+
+
+
+
+
 
 
 ## Getting Started
@@ -23,15 +38,15 @@ These instructions will help you set up and run the project on your local machin
 
 ### Prerequisites
 
-- Flutter installed on your machine. Follow the [official Flutter installation guide](https://flutter.dev/docs/get-started/install) for details.
+- Flutter installed on your machine. Follow the [official Flutter installation guide](https://docs.flutter.dev/get-started/install) for details.
 
 ### Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/quiz-app.git
-   cd quiz-app
+   git clone https://github.com/ankitpatne/Flutter-Quiz-App.git
+   cd <project-name>
    ```
 
 2. Install dependencies:
