@@ -11,9 +11,9 @@ class StartScreen extends StatelessWidget {
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
           Image.asset(
-            'assets/images/quiz-logo.png',
+            'assets/images/quiz.png',
             height: 300,
-            color: const Color.fromARGB(125, 255, 255, 255),
+            // color: const Color.fromARGB(125, 255, 255, 255),
           ),
           const SizedBox(
             height: 40,
@@ -38,7 +38,8 @@ class StartScreen extends StatelessWidget {
             height: 40,
           ),
           OutlinedButton.icon(
-            onPressed: startQuiz,  // This is the function that we passed from the parent widget. It will be CALLED when the button is pressed. it is same as writing onPressed: () { startQuiz(); } i.e. the switchScreen() function will be called when the button is pressed.
+            onPressed:
+                startQuiz, // This is the function that we passed from the parent widget. It will be CALLED when the button is pressed. it is same as writing onPressed: () { startQuiz(); } i.e. the switchScreen() function will be called when the button is pressed.
             style: OutlinedButton.styleFrom(
               padding: const EdgeInsets.symmetric(horizontal: 50, vertical: 15),
               backgroundColor: Colors.deepPurple,
